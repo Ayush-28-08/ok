@@ -1,0 +1,248 @@
+.sidebar {
+  position: relative;
+  background-color: black;
+  width: 300px;
+  height: 950px;
+  margin-top: 0px;
+  padding-top: 60px;
+  bottom: 50px;
+  right: 10px;
+}
+.sidebarset{
+    position: relative;
+    bottom: 40px;
+}
+.sidebarset1{
+    position: relative;
+    bottom: 50px;
+}
+.sidebarset2{
+    position: relative;
+    bottom: 35px;
+}
+div {
+  font-size: x-large;
+  color: white;
+  margin-top: 20px;
+  padding-left: 12px;
+}
+.ab {
+  position: relative;
+  top: 30px;
+}
+.obj1 {
+  position: relative;
+  top: 9px;
+}
+.ab1 {
+  position: relative;
+  top: 50px;
+  left: 5px;
+}
+.Home {
+  border: solid black;
+  position: relative;
+  bottom: 40px;
+  background-color: #9fafb3;
+  height: 40px;
+  padding-top: 8px;
+  border-radius: 10px;
+}
+
+
+body {
+  background-color: rgb(57, 66, 63);
+  
+}
+Header {
+  font-size: xx-large;
+  position: relative;
+  left: 330px;
+  top: 90px;
+  font-weight: 800;
+  color: white;
+}
+.iimg {
+  border: solid #616d71;
+  border-right-width: 240px;
+  border-radius: 6px;
+  position: relative;
+  bottom: 900px;
+  left: 300px;
+}
+.likedsongs {
+  position: relative;
+  bottom: 1000px;
+  left: 430px;
+}
+.img4 {
+  position: relative;
+  border: solid #616d71;
+  border-radius: 6px;
+  border-right-width: 240px;
+  bottom: 1090px;
+  left: 710px;
+}
+.neffex {
+  position: relative;
+  bottom: 1190px;
+  left: 830px;
+}
+.kd {
+  position: relative;
+  bottom: 1380px;
+  left: 1230px;
+}
+.img3 {
+  position: relative;
+  border: solid #616d71;
+  border-radius: 6px;
+  border-right-width: 240px;
+  bottom: 1280px;
+  left: 1110px;
+}
+.img2 {
+  position: relative;
+  border: solid #616d71;
+  border-right-width: 240px;
+  border-radius: 6px;
+  bottom: 1469px;
+  left: 1510px;
+}
+.dance {
+  position: relative;
+  bottom: 1570px;
+  left: 1630px;
+}
+.img1 {
+  border: solid #616d71;
+  border-right-width: 240px;
+  border-radius: 6px;
+  position: relative;
+  bottom: 1510px;
+  left: 300px;
+}
+.songs {
+  position: relative;
+  bottom: 1607px;
+  left: 430px;
+}
+h1 {
+  position: relative;
+  bottom: 1550px;
+  left: 320px;
+  color: white;
+  font-size: xx-large;
+}
+.img9 {
+  border-radius: 5px;
+  border: solid #424b4e;
+  border-right-width: 10px;
+  border-left-width: 10px;
+  border-bottom-width: 100px;
+  position: relative;
+  bottom: 1540px;
+  left: 310px;
+}
+.img8 {
+  border-radius: 5px;
+  border: solid #424b4e;
+  border-right-width: 10px;
+  border-left-width: 10px;
+  border-bottom-width: 100px;
+  position: relative;
+  bottom: 1860px;
+  left: 580px;
+}
+.img7 {
+  border-radius: 5px;
+  border: solid #424b4e;
+  border-right-width: 10px;
+  border-left-width: 10px;
+  border-bottom-width: 100px;
+  position: relative;
+  bottom: 2180px;
+  left: 850px;
+}
+.img6 {
+  border-radius: 5px;
+  border: solid #424b4e;
+  border-right-width: 10px;
+  border-left-width: 10px;
+  border-bottom-width: 100px;
+  position: relative;
+  bottom: 2500px;
+  left: 1120px;
+}
+.img5 {
+  border-radius: 5px;
+  border: solid #424b4e;
+  border-right-width: 10px;
+  border-left-width: 10px;
+  border-bottom-width: 100px;
+  position: relative;
+  bottom: 2820px;
+  left: 1390px;
+}
+.img10 {
+  border-radius: 5px;
+  border: solid #424b4e;
+  border-right-width: 10px;
+  border-left-width: 10px;
+  border-bottom-width: 100px;
+  position: relative;
+  bottom: 3140px;
+  left: 1660px;
+}
+.splogo{
+    position: relative;
+    bottom: 60px;
+}
+.para1{
+    position: relative;
+    bottom: 3250px;
+    font-size: large;
+    left: 330px;
+}
+.para2{
+    position: relative;
+    bottom: 3300px;
+    font-size: large;
+    left: 600px;
+
+}
+.para3{
+    position: relative;
+    bottom: 3340px;
+    font-size: large;
+    left: 870px;
+
+}
+.para4{
+    position: relative;
+    bottom: 3390px;
+    font-size: large;
+    left: 1140px;
+
+
+}
+.para5{
+    position: relative;
+    bottom: 3435px;
+    font-size: large;
+    left: 1410px;
+
+    
+}
+.seeall{
+    position: relative;
+    bottom: 3755px;
+    font-size: large;
+    left: 1800px;
+}
+.navbu{
+    position: relative;
+    bottom: 4255px;
+    
+    left: 300px;
+}
